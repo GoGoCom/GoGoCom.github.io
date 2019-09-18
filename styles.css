@@ -5,31 +5,31 @@
 
 .B2D {
   display: block;
-  width:20%;
+  width:384px;
   margin: 50px auto;
 }
 
 .B3D {
   display: block;
-  width:30%;
+  width:484px;
   margin: 50px auto;
 }
 
 .B4D {
   display: block;
-  width:40%;
+  width:584px;
   margin: 50px auto;
 }
 
 p {
   display: block;
-  width:500px;  
+  width:600px;  
   margin: 50px auto;
   font: 20px bold Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 h1, h2 {
   display: block;
-  width:500px;  
+  width:600px;  
   margin: 50px auto;
 }
